@@ -76,3 +76,7 @@ C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\obj\
 C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\obj\Debug\NewsLetterAppMVC_step379.csproj.CopyComplete
 C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\obj\Debug\NewsLetterAppMVC_step379.dll
 C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\obj\Debug\NewsLetterAppMVC_step379.pdb
+C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\bin\EntityFramework.dll
+C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\bin\EntityFramework.SqlServer.dll
+C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\bin\EntityFramework.xml
+C:\Users\kleib_000\Desktop\GitHub\C-Sharp-Projects\NewsLetterAppMVC_step379\bin\EntityFramework.SqlServer.xml
